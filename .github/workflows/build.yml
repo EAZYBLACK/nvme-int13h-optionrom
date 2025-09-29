@@ -47,6 +47,7 @@ jobs:
             ./src/bin/1af41000.rom
             ./src/bin/8086100f.mrom
             ./src/bin/808610d3.mrom
+            ./src/bin/10ec8168.rom
             ./src/bin/15ad07b0.rom
             ./src/bin/19691026.rom
             ./src/bin/ipxe.usb

@@ -135,7 +135,7 @@ ALL		:= bin/blib.a bin/ipxe.dsk bin/ipxe.lkrn bin/ipxe.iso \
 		   bin/8086100e.mrom bin/80861209.rom bin/10500940.rom \
 		   bin/10222000.rom bin/10ec8139.rom bin/1af41000.rom \
 		   bin/8086100f.mrom bin/808610d3.mrom bin/15ad07b0.rom \
-           bin/19691026.rom
+           bin/19691026.rom bin/10ec8168.rom
 
 all : $(ALL)
 	@$(ECHO) '==========================================================='
